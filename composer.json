@@ -1,5 +1,5 @@
 {
-    "name": "pear2/net_transmitter",
+    "name": "chaker2710/net_transmitter",
     "description": "A stream wrapper that ensures data integrity. Particularly useful for sockets.",
     "keywords": ["integrity", "sockets", "networking", "pear2", "package", "network", "socket"],
     "homepage": "http://pear2.github.com/Net_Transmitter/",
